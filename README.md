@@ -52,7 +52,7 @@ SAP
 
 ### 📌 Public Repositories
 
-- 🔸 [**Unraid CORS Reverse Proxy**](https://github.com/n1ccc/cors-unraid-proxy)
+- 🔸 [**Unraid CORS Reverse Proxy**](https://github.com/n1ccc/cors-unraid-proxy) - easy-to-use reverse proxy for Unraid OS that enables Cross-Origin Resource Sharing (CORS) for various applications by adding a header
 
 
 ### 🔒 Private Projects
