@@ -15,16 +15,14 @@
 
 ### 🚀 My Soft Skills
 
-- Analytical thinking  
+- Analytical and structured thinking  
 - Team collaboration  
 - Problem solving  
 - Continuous learning  
 - Goal-oriented mindset  
-- Structured thinking  
 - Process optimization  
 - Tech curiosity  
-- Hands-on mentality  
-- Creative solution design
+- Hands-on mentality
   
 ### 🛠️ Tech Stack, Tools and Skills
 
