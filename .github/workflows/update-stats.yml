@@ -14,3 +14,6 @@ jobs:
           user: n1ccc
           template: classic
           base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_colors: github # Nutzt originale GitHub-Farben
+          plugin_languages_limit: 8       # Zeigt maximal 8 Sprachen
