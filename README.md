@@ -11,9 +11,6 @@
 
 - Working as an **SAP Basis Administrator & ABAP Developer**
 - Passionate about **Blockchain**, **AI**, **Machine Learning**, **Cryptocurrency**, **Web3** , **Cybersecurity**, **3D Printing**, **Self-Optimization** and **Home Automation**
----
-
-### 📈 GitHub Stats
 
   ![Metrics](/github-metrics.svg)
   
