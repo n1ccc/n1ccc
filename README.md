@@ -13,6 +13,12 @@
 - Passionate about **Blockchain**, **AI**, **Machine Learning**, **Cryptocurrency**, **Web3** , **Cybersecurity**, **3D Printing**, **Self-Optimization** and **Home Automation**
 ---
 
+### 📈 GitHub Stats
+
+  ![Metrics](/github-metrics.svg)
+  
+---
+
 ### 🚀 My Soft Skills
 
 - Analytical and structured thinking  
@@ -63,12 +69,6 @@ SAP
   
 --- 
  
-
-### 📈 GitHub Stats
-
-  ![Metrics](/github-metrics.svg)
-  
----
 
 ### 🤝🔗 Stay in touch / Contact
 
