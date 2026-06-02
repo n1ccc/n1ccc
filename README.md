@@ -71,8 +71,6 @@ SAP
 
 - LinkedIn: [niconagel](https://www.linkedin.com/in/niconagel/)
 - Website: [n1ccc.dev](https://n1ccc.dev)
-- Discord: [n1ccc](https://discord.com/users/201646813927702529)
-- GitHub: [n1ccc](https://github.com/n1ccc)  
 
 ---
 
