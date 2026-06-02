@@ -1,17 +1,16 @@
 name: Update GitHub Readme Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # Läuft einmal täglich
-  workflow_dispatch: # Erlaubt es Ihnen, den Lauf manuell zu starten
+    - cron: '0 0 * * *' # Läuft einmal täglich um Mitternacht
+  workflow_dispatch: # Erlaubt den manuellen Start
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: Generate Graph
     steps:
-      - uses: actions/checkout@v4
-      - uses: ashutosh00710/github-readme-activity-graph@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: n1ccc
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: n1ccc
+          template: classic
+          base: header, activity, community, repositories
