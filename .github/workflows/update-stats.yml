@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           name: Update GitHub Readme Stats
           user: n1ccc
           template: classic
