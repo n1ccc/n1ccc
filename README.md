@@ -16,8 +16,9 @@ automations and whatever I'm currently tinkering with.
 - [SAP Certified Development Associate – ABAP with NetWeaver 7.50](https://www.credly.com/badges/04b0c642-77af-473b-a37a-0ec778ccfee0)
 - Vocational Trainer Certificate
 
-### Courses
+### Other Courses
 
 - [Generative AI at SAP](https://open.sap.com/verify/xiric-fibac-caven-zyleg-kicus) – openSAP record of achievement
 
-[n1ccc.dev](https://n1ccc.dev)
+### Website
+- [n1ccc.dev](https://n1ccc.dev)
