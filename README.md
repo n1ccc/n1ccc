@@ -1,77 +1,23 @@
+# Hi, I'm Nico
 
+SAP ABAP Developer. Here you'll find my side projects – small tools,
+automations and whatever I'm currently tinkering with.
 
-<h1 align="center">Hi, I am Nico 👋</h1>
-<p align="center">
-  <em>Tech-Enthusiast • Developer • SAP Consultant • Automation Fan • Micro Learner</em>
-</p>
+![Metrics](/github-metrics.svg)
 
----
+### Public Projects
 
-### 🧠 About me
+- [**cors-unraid-proxy**](https://github.com/n1ccc/cors-unraid-proxy) – reverse proxy for Unraid that adds CORS headers
 
-- Working as an **SAP Basis Administrator & ABAP Developer**
-- Passionate about **Blockchain**, **AI**, **Machine Learning**, **Cryptocurrency**, **Web3** , **Cybersecurity**, **3D Printing**, **Self-Optimization** and **Home Automation**
+### Certifications
 
-  ![Metrics](/github-metrics.svg)
-  
----
+- [SAP Certified Joule Studio Developer](https://www.credly.com/badges/c2dae464-54cb-4f01-a8d5-2a9cd9f1f009)
+- [SAP Certified S/4HANA Conversion and SAP System Upgrade](https://www.credly.com/badges/6a6b7ab5-64ec-4bcc-b5ba-eb557cf7a823)
+- [SAP Certified Development Associate – ABAP with NetWeaver 7.50](https://www.credly.com/badges/04b0c642-77af-473b-a37a-0ec778ccfee0)
+- Vocational Trainer Certificate
 
-### 🚀 My Soft Skills
+### Courses
 
-- Analytical and structured thinking  
-- Team collaboration  
-- Problem solving  
-- Continuous learning  
-- Goal-oriented mindset  
-- Process optimization  
-- Tech curiosity  
-- Hands-on mentality
-  
-### 🛠️ Tech Stack, Tools and Skills
+- [Generative AI at SAP](https://open.sap.com/verify/xiric-fibac-caven-zyleg-kicus) – openSAP record of achievement
 
-| Category       | Skills |
-|----------------|----------------------|
-| SAP | Eclipse • ADT • ABAP • BTP • S/4HANA |
-| Other Languages      | JavaScript • Python (Basics) & more|
-| Tech Skills | Excel • VBA (Basics) |
-| DevOps         | VSCode • Clean Code • Git • GitHub • Docker |
-| IoT & HA       | Home Assistant • Bots • Scripting |
-| OS       | Unraid OS / Linux, Windows 11, Android |
-
----
-
-### 🏅 Certification
-
-General
-- ✅ Apprenticeship as IT Specialist – Specialization in Application Development
-- ✅ Vocational Trainer Certificate
-
-SAP
-- ✅ SAP Certified Development Associate - ABAP with NetWeaver 7.50
-- ✅ Generative AI at SAP
-- ✅ Gain Experience with a System Conversion to SAP S/4HANA
-
----
-
-### 📌 Public Repositories
-
-- 🔸 [**Unraid CORS Reverse Proxy**](https://github.com/n1ccc/cors-unraid-proxy) - reverse proxy for Unraid OS, bypass Cross-Origin Resource Sharing (CORS) by adding a header
-
-
-### 🔒 Private Projects
-
-- 🔹 **1nvestAlgo** - Automated investment valuation & portfolio tracking bot  
-- 🔹 **Discord Community Bot** - Modular automation, tracking, and community bot
-
-  
---- 
- 
-
-### 🤝🔗 Stay in touch / Contact
-
-- LinkedIn: [niconagel](https://www.linkedin.com/in/niconagel/)
-- Website: [n1ccc.dev](https://n1ccc.dev)
-
----
-
-<p align="center">🚀 "Stay curious. Build smarter. Live better!" 🧬</p>
+[n1ccc.dev](https://n1ccc.dev)
